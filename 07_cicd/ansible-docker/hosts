@@ -1,5 +1,4 @@
-app_vm ansible_host=172.28.128.87
+app_vm ansible_host=4dvop_app_vm_1
 [all:vars]
-ansible_user=centos
-ansible_ssh_pass=centos
-ansible_sudo_pass=centos
+ansible_user=alpine
+ansible_ssh_pass=alpine
