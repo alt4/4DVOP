@@ -20,4 +20,4 @@
         links:  
           - nginx:nginx
         ports:
-          - "80:80"
+          - "9874:80"
